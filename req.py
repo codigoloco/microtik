@@ -133,6 +133,6 @@ def addCliente(iden, rif, fecha_r,tipo ,cap):
     ##agregar funcion de actualizacion de planes
 
 #bRIF("rif",1 o 2 status)
-addCliente("roberto compan c.a","J-11111111-3",date.today(),"DED","50")
+#addCliente("roberto compan c.a","J-11111111-3",date.today(),"DED","50")
 # bRIF("J-11111111-9")
 
