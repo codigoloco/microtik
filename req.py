@@ -134,5 +134,6 @@ def addCliente(iden, rif, fecha_r,tipo ,cap):
 
 #bRIF("rif",1 o 2 status)
 #addCliente("roberto compan c.a","J-11111111-3",date.today(),"DED","50")
-# bRIF("J-11111111-9")
+# val= bRIF("J-00000000-0",0)
+# print(val)
 
